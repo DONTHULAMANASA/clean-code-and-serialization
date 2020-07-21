@@ -1,2 +1,2 @@
-# rahulghosh_CleanCode-Serialization
+# manasa_CleanCode-Serialization
 Epam Home Task on Clean Code and Serialization!
